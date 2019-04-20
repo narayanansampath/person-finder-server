@@ -1,0 +1,24 @@
+# django 
+Django
+djangorestframework
+django-filter
+drf-extensions
+requests
+markdown
+
+# prod wsgi server
+gunicorn
+
+# postgres driver
+psycopg2-binary
+
+# opencv stuff
+pillow
+opencv-contrib-python
+
+# background jobs
+redis
+celery[redis]
+
+# file bucket
+google-cloud-storage

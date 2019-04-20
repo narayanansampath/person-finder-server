@@ -1,0 +1,9 @@
+.vscode
+.mypy_cache/
+__pycache__/
+img_processor/dataset/
+img_processor/trainer/
+venv/
+gcs_storage_key.json
+venv/
+deactivate
