@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kodona-275019",
+  "private_key_id": "b596c40f7425ebc9c22ee82c283c0d20e791d690",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAvb7UXw0Xqfn1\nTRyqbG8DogB5QH2julbkFUe63Ju6LqALVZe70Dvy0/MdaKroLjq+3M34KUSsD2iZ\nmhlLrSWgO+cUT3BZPiwwDtq1aRI+7mvZf3HyNwha64dM7Tm5jGCUcRHpuXgkpR6Y\ngaWpu3cuctMd46rqO8RD2uKB4pq+NXIcc7BC1k4Ge3Klx6r/JIsLn9IFx+gg2ONu\ncLMkKYyR/OAsgqFJp9eSrl/1Gg7yvrcQ1F5sWMVqbf7ClTek9FKAn1gf2PyQfwGY\n5gxIMtYjKolak0eNwRnxLXllT0bmDOdwpU0hdkqkvU5PLWuoqtHASQNuytI8Jx0u\nebQwVmLLAgMBAAECggEAKGfe2JCwovRcVWN8DfI7d6x/ouu1KxzGWHxplC/paaea\nn6Wq8JGf77ElN1YY9iGy6Q5LE6o7HkMAr6rRgL7ks2m7cNOSfvL8unpyuTM0wwKi\nk28XSSrmUoEr1SGqR065dIUbtz7NhAkll90eCK4nNxKVVZ/D1eT/qSX69DW4MQWP\n3kqSUwmGr756VZqu3W10mt8PSYweko9HdrKKf1yU6nbo5rZhjykd/euc/VHic3JA\n3cpNF1v8jHk8OlizlDzO37O/tVuH/KuC726PZ9C3zGIizzwZtmDDNS66X9Z6kdBC\nw+QmiKaQhksnNJE8QvM9uTNs9PogliYuIw2BTgziwQKBgQDwrffSQFlwZUJ2bp+D\nqJMIrfNiYT2k+GQNuUpOFyrK2qdqnUFMNSLningOyG6YioWQfS+fy5qwJU18FOha\nGOC41+ioIf0wU5QOvKpvcyuha1kzsT7kWG/c6s2Oe0fWoAMwxx6Ufnl2CzrLBuIn\ny4fO9872EHn745y/pM3k6dw66wKBgQDNApcPYEVYIyXnSfnXeYSiF4t9Zrn/gdxX\nVqSTCf5lwtCnhZ3b9Hn1u6zALEypYY7gLhvUtuVTejKzsPS8EIz0mP6MMgufXaDQ\noeIof6+xigmVlaxkgPCwfsOmchcxz13xZBBMz4mZpa7n+xbCnwq88CTSUAqPuKeA\nkErkbqC/oQKBgQDu0VElGaEl+/RVHDPAKperdyAYMLFAbxCo5YErt6VIoGqbSesv\nOVKnOikjUhMb3efmlbGZ+ChIPNuEEiL0s9bY07USkJdxSp2RefgMmtViWOiseGYV\nowNszLindwCzoRdJYWugoVbYoQ/3wZ7LKhRadF6yn2rLXPF+4INFcCCNfQKBgCe2\nQ7rHxEcBb/swmkQCFw4rD2s4Nflnl14Xu4N8IRpnNXHt8RlFb0aJlzoWmrcI3dtR\nMzTuRNf5yM6EDbRMZHGRHWXc3+F8CoW/hgagTVFP0vF179H8JCOcOpwIZ7PPXnw/\nDOVEInxv2sS3H76NflABGLDgrlsOwuulh8xeHadhAoGAEg6GF9Z9OZFcwOnecAHY\n3CuJ5K+QcgQjhVabMWvq+kurevt9IRPjZMb938c96xDNKMx++1op2aG/V9iBETz4\n9nW/Hc2mM0LQRDqWp7rw/vX6jUkIfdM62KQvOLjO5WWlUMagM3TrY7JTc0l4pqzG\nmdEUMF3YZ8eflICAyIyyl4w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-storage@kodona-275019.iam.gserviceaccount.com",
+  "client_id": "104622439145004888836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-storage%40kodona-275019.iam.gserviceaccount.com"
+}
