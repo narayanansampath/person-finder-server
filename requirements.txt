@@ -21,7 +21,7 @@ gunicorn==19.9.0
 
 # opencv
 opencv-contrib-python==4.1.0.25
-Pillow==6.0.0
+Pillow==9.0.0
 
 # postgres driver
 psycopg2-binary==2.8.1
